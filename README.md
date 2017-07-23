@@ -1,2 +1,5 @@
 # Design-Patterns-Python
-There are few design pattens that can be implemented in python
+There are few design pattens that can be implemented in python.
+The design patterns are made following youtube tutorial of Suresh Srivastava
+The link is as follows:
+https://www.youtube.com/playlist?list=PLplJltxWVIbIjWVcNStHBkPsaRLpYnDBU
